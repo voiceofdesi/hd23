@@ -21,7 +21,7 @@
 
   <!-- SVG Top Shape -->
   <figure class="position-absolute top-0 right-0 left-0">
-    <img class="js-jpg-injector" src="https://viralvideos2021.biz/wp-content/uploads/2021/08/11-1.jpg" alt="Image Description"
+    <img class="js-jpg-injector" src="youtube.com/watch?v=JjcT4jqc5zo" alt="Image Description"
          data-parent="#SVGwave2Shape">
   </figure>
   <!-- End SVG Top Shape -->
