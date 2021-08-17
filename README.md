@@ -28,7 +28,7 @@
 
   <!-- SVG Bottom Shape -->
   <figure class="position-absolute right-0 bottom-0 left-0">
-    <img class="js-jpg-injector" src="https://www.youtube.com/watch?v=JjcT4jqc5zo" alt="Image Description"
+    <img class="js-jpg-injector" src="youtube.com/watch?v=JjcT4jqc5zo" alt="Image Description"
          data-parent="#SVGwave2Shape">
   </figure>
   <!-- End SVG Bottom Shape -->
